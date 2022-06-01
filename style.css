@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: #f0e8c5;
+  }
+
+  div {
+    margin-top: 15px;
+  }
+
+  
+  .image-section {
+  /* Correct the display value as flex */
+    display: flx;
+  /* Correct the justify-content value as center */	  justify-content: space-center;
+  }
+
+  .section-style {
+  /* Correct the name of the properties to 
+      margin-right and margin-left */
+    marginright: 25px;
+    marginleft: 25px;
+  /* Correct the name of the property to
+      background-color */
+      backColor: white;
+  }
